@@ -1,0 +1,3 @@
+file,power2d_npy,power2d_png
+test/rough_fracture.png .jpg,out_test/power2d_npy/rough_fracture.png _power2d.npy,out_test/power2d_png/rough_fracture.png _power2d.png
+test/smooth_pearlite.png .png,out_test/power2d_npy/smooth_pearlite.png _power2d.npy,out_test/power2d_png/smooth_pearlite.png _power2d.png
